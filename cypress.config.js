@@ -10,6 +10,7 @@ module.exports = defineConfig({
       config.env.EMAIL = process.env.EMAIL;
       config.env.PASSWORD = process.env.PASSWORD;
       config.env.URL_LOGIN = process.env.URL_LOGIN;
+      config.env.URL_PASSWORD = process.env.URL_PASSWORD;
 
       return config;
     },
