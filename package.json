@@ -1,0 +1,15 @@
+{
+  "name": "Teste R7",
+  "version": "1.0.0",
+  "description": "Teste automatizado no portal R7",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^15.7.1",
+    "dotenv": "^17.2.3"
+  }
+}
