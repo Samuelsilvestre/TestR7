@@ -3,13 +3,22 @@
 Este repositório contém um conjunto de **testes automatizados e manuais** desenvolvidos para validar funcionalidades essenciais do portal de notícias **R7.com**.  
 O objetivo do projeto é garantir a qualidade, estabilidade e funcionamento adequado das principais áreas do site, cobrindo cenários positivos e negativos.
 
+<<<<<<< HEAD
 ---a
+=======
+---
+>>>>>>> fc4f269de906aec46419e21397f6899908852318
 
 ## 🚀 Tecnologias Utilizadas
 
 - **JavaScript**
 - **Node.js**
 - **Cypress**
+<<<<<<< HEAD
+=======
+- **Excel**
+- **Notion**
+>>>>>>> fc4f269de906aec46419e21397f6899908852318
 - **Git & GitHub**
 
 ---
